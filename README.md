@@ -13,6 +13,15 @@
 
 </div>
 
+> [!NOTE]  
+> **Announcement:** This project is now also available as a **Discord Bot** at **https://project-focalor.nattapat2871.me**
+> Just **join our Discord server** and the bot will guide you step by step — no need to run any scripts or set up Google Apps Script.  
+> It supports **multiple accounts & multiple games**, and even has an **automatic redeem-code system**.  
+> **Currently the bot works in Thai language** (multi-language support will be added later).  
+> **Available starting today: 13/09/2025**
+
+
+
 <p align= "center">
         <b>English</b>　<a href="/README_TH.md">ภาษาไทย</a>
 
@@ -261,4 +270,5 @@ This script uses your `Token HoYoLab` to automatically log into HoYoLab for the 
 
         
 ### Channels to follow news or contact us [Discord Server](https://discord.gg/RbyUEseDYP)
+
 

@@ -266,9 +266,3 @@ This script uses your `Token HoYoLab` to automatically log into HoYoLab for the 
 * `23:30 24/4/2025 : Added language selection feature`
 * `22:46 24/4/2025 : Added check-in function for Tears of Themis`
 * `16:25 24/4/2025 : First Commit`
-
-
-        
-### Channels to follow news or contact us [Discord Server](https://discord.gg/RbyUEseDYP)
-
-
